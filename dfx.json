@@ -1,0 +1,9 @@
+{
+  "canisters": {
+    "e2e_tests_backend": {
+      "main": "src/e2e_tests_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "version": 1
+}
