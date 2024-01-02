@@ -1,0 +1,5 @@
+# ICP-DEV-Motoko-journey- END TO END TESTING
+
+# LEARNING MOTOKO for ICP dev environment setup as well as ICP DEVELOPER JOURNEY TUTORIAL Space
+
+# PERFORMING END TO END TESTING 
